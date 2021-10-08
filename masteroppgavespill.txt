@@ -2,6 +2,11 @@ Spill
 
 
 -Matching pennies
+	
+	Deterministic.
+	Imperfect information.
+	3 players.
+
 	From the notes: "Each player has two actions, H or T. Player 1 wants to match
 	the action of player 2; player 2 wants to match the action of player 3; and
 	player 3 wants to match the opposite of the action of player 1. Each player
@@ -18,6 +23,10 @@ Spill
 	Dermed må mixed strategy policies læres.
 
 -Trade comm
+	Non-deterministic.
+	Imperfect information.
+	2 players.
+	
 	A simple communication game inspired by trading, where agents receive
 	private items, send (arbitrary) utterances, and then have to commit to a
 	trade.
@@ -36,8 +45,13 @@ Spill
 	longer and vectorized, and the commitment round is multi-step.
 
 -Liars Dice (Har nok stabilt nash ekvilibrium om)
+	Non-deterministic.
+	Imperfect information.
+	2 players.
+
 	Spille med at både dine og dine motstanders terninger gjelder når du sier en hånd.
 	Dermed kan informasjon fra tidligere bud brukes, om de sier sannheten.
+	
 
 -Negotiation
 	Non-deterministic.
