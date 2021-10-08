@@ -2,7 +2,6 @@ Spill
 
 
 -Matching pennies
-	
 	Deterministic.
 	Imperfect information.
 	3 players.
